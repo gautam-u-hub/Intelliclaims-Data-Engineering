@@ -1,0 +1,8 @@
+Starting update and save policy dataset process...
+Policy and claims files loaded successfully.
+Updated policy dataset saved to: /usr/local/airflow/dags/dataset/updated_policies.csv
+Update and save policy dataset process completed.
+Starting update and save policy dataset process...
+Policy and claims files loaded successfully.
+Updated policy dataset saved to: /usr/local/airflow/dags/dataset/updated_policies.csv
+Update and save policy dataset process completed.

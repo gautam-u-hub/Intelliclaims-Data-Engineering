@@ -1,0 +1,70 @@
+2024-03-21 12:42:08 - Starting data quality checks...
+2024-03-21 12:42:08 - Completeness check passed: No missing values found.
+2024-03-21 12:42:08 - All premium amounts are within the valid range.
+2024-03-21 12:42:08 - All policy terms are within the valid range.
+2024-03-21 12:42:08 - Corrected CSV file saved to: /usr/local/airflow/dags/correctedCSV/corrected_policies.csv
+2024-03-21 13:57:34 - Starting data quality checks...
+2024-03-21 13:57:34 - Completeness check passed: No missing values found.
+2024-03-21 13:57:34 - All premium amounts are within the valid range.
+2024-03-21 13:57:34 - All policy terms are within the valid range.
+2024-03-21 13:57:34 - Corrected CSV file saved to: /usr/local/airflow/dags/correctedCSV/corrected_policies.csv
+2024-03-22 05:59:30 - Starting data quality checks...
+2024-03-22 05:59:30 - Completeness check passed: No missing values found.
+2024-03-22 05:59:30 - All premium amounts are within the valid range.
+2024-03-22 05:59:30 - All policy terms are within the valid range.
+2024-03-22 05:59:30 - Corrected CSV file saved to: /usr/local/airflow/dags/correctedCSV/corrected_policies.csv
+2024-03-22 06:54:20 - Starting data quality checks...
+2024-03-22 06:54:20 - Completeness check passed: No missing values found.
+2024-03-22 06:54:20 - All premium amounts are within the valid range.
+2024-03-22 06:54:20 - All policy terms are within the valid range.
+2024-03-22 06:54:20 - Corrected CSV file saved to: /usr/local/airflow/dags/correctedCSV/corrected_policies.csv
+2024-03-22 06:54:38 - Starting data quality checks...
+2024-03-22 06:54:38 - Completeness check passed: No missing values found.
+2024-03-22 06:54:38 - All premium amounts are within the valid range.
+2024-03-22 06:54:38 - All policy terms are within the valid range.
+2024-03-22 06:54:38 - Corrected CSV file saved to: /usr/local/airflow/dags/correctedCSV/corrected_policies.csv
+2024-03-22 06:54:49 - Starting data quality checks...
+2024-03-22 06:54:49 - Completeness check passed: No missing values found.
+2024-03-22 06:54:49 - All premium amounts are within the valid range.
+2024-03-22 06:54:49 - All policy terms are within the valid range.
+2024-03-22 06:54:49 - Corrected CSV file saved to: /usr/local/airflow/dags/correctedCSV/corrected_policies.csv
+2024-03-22 07:08:39 - Starting data quality checks...
+2024-03-22 07:08:40 - Completeness check passed: No missing values found.
+2024-03-22 07:08:40 - All premium amounts are within the valid range.
+2024-03-22 07:08:40 - All policy terms are within the valid range.
+2024-03-22 07:08:40 - Corrected CSV file saved to: /usr/local/airflow/dags/correctedCSV/corrected_policies.csv
+2024-03-22 07:09:31 - Starting data quality checks...
+2024-03-22 07:09:31 - Completeness check passed: No missing values found.
+2024-03-22 07:09:31 - All premium amounts are within the valid range.
+2024-03-22 07:09:31 - All policy terms are within the valid range.
+2024-03-22 07:09:31 - Corrected CSV file saved to: /usr/local/airflow/dags/correctedCSV/corrected_policies.csv
+2024-03-22 07:10:36 - Starting data quality checks...
+2024-03-22 07:10:36 - Completeness check passed: No missing values found.
+2024-03-22 07:10:36 - All premium amounts are within the valid range.
+2024-03-22 07:10:36 - All policy terms are within the valid range.
+2024-03-22 07:10:36 - Corrected CSV file saved to: /usr/local/airflow/dags/correctedCSV/corrected_policies.csv
+2024-03-22 07:11:59 - Starting data quality checks...
+2024-03-22 07:11:59 - Completeness check passed: No missing values found.
+2024-03-22 07:11:59 - All premium amounts are within the valid range.
+2024-03-22 07:11:59 - All policy terms are within the valid range.
+2024-03-22 07:11:59 - Corrected CSV file saved to: /usr/local/airflow/dags/correctedCSV/corrected_policies.csv
+2024-03-22 07:14:08 - Starting data quality checks...
+2024-03-22 07:14:08 - Completeness check passed: No missing values found.
+2024-03-22 07:14:08 - All premium amounts are within the valid range.
+2024-03-22 07:14:08 - All policy terms are within the valid range.
+2024-03-22 07:14:08 - Corrected CSV file saved to: /usr/local/airflow/dags/correctedCSV/corrected_policies.csv
+2024-03-22 07:15:05 - Starting data quality checks...
+2024-03-22 07:15:05 - Completeness check passed: No missing values found.
+2024-03-22 07:15:05 - All premium amounts are within the valid range.
+2024-03-22 07:15:05 - All policy terms are within the valid range.
+2024-03-22 07:15:05 - Corrected CSV file saved to: /usr/local/airflow/dags/correctedCSV/corrected_policies.csv
+2024-05-01 02:56:16 - Starting data quality checks...
+2024-05-01 02:56:16 - Completeness check passed: No missing values found.
+2024-05-01 02:56:16 - All premium amounts are within the valid range.
+2024-05-01 02:56:16 - All policy terms are within the valid range.
+2024-05-01 02:56:16 - Corrected CSV file saved to: /usr/local/airflow/dags/correctedCSV/corrected_policies.csv
+2024-05-01 07:07:10 - Starting data quality checks...
+2024-05-01 07:07:10 - Completeness check passed: No missing values found.
+2024-05-01 07:07:10 - All premium amounts are within the valid range.
+2024-05-01 07:07:10 - All policy terms are within the valid range.
+2024-05-01 07:07:10 - Corrected CSV file saved to: /usr/local/airflow/dags/correctedCSV/corrected_policies.csv
